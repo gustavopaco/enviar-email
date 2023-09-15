@@ -6,4 +6,4 @@ O envio de email pode ser feito utilizando o Spring Boot, a biblioteca JavaMailS
 Existem 3 Classes que fazem o envio de email, são elas:
 - EmailService & EmailServiceImpl
 - EmailSender & EmailSenderImpl
-- ObjetoJavaMail
+- GenericJavaMail & GenericAsyncJavaMail
